@@ -15,3 +15,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories{
+    padding:20px;
+}
+.cat1, .cat2, .cat3{
+padding: 10px 20px;
+border-radius: 20px;
+}
+.cat1{
+    background-color: rgb(234, 121, 234);
+}
+.cat2{
+    background-color: rgb(231, 181, 88);
+}
+.cat3{
+    background-color: rgb(85, 85, 224);
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container{
+    padding-top: 40px;
+}
+#subscribe{
+    height: 250px;
+    padding: 100px 80px;
+}
+#subscribe h6{
+    color: gray;
+}
